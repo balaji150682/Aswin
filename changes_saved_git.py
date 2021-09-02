@@ -1,0 +1,1 @@
+python preprocess.py "F:\twitter_scrap\twint\Wells.csv"
